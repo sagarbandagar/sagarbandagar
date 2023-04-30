@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarbandagar
 - 👀 I’m interested in Web devolpment
-- 🌱 I’m currently learning Python & Sql
+- 🌱 I’m currently learning FullStack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Vijayapura
 
